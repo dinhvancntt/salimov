@@ -23,7 +23,7 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " Steven is a great help managing a very out of date website.
+                " Kiet is a great help managing a very out of date website.
                 Everything we ask him to do is done quickly and efficiently, we
                 would be lost without him. "
               </span>
