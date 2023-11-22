@@ -42,7 +42,7 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              contact@steven.net
+              dinhvancntt@gmail.com
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}

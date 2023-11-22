@@ -9,7 +9,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>13</h3>
+              <h3>1</h3>
               <p>
                 years of<span>experience</span>
               </p>
@@ -24,9 +24,9 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>67</h3>
+              <h3>999+</h3>
               <p>
-                completed<span>projects</span>
+                orders<span>sale</span>
               </p>
             </div>
           </div>
@@ -39,7 +39,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>56</h3>
+              <h3>999+</h3>
               <p>
                 Happy<span>customers</span>
               </p>
@@ -63,19 +63,6 @@ const Facts = () => {
         </div>
         {/* SINGE FACT ITEM ENDS */}
         {/* SINGE FACT ITEM STARTS */}
-        <div
-          className="animated-layer fade-in-right-animation fadeInLeft wow"
-          data-wow-offset={200}
-        >
-          <div>
-            <div>
-              <h3>32</h3>
-              <p>
-                learned<span>frameworks</span>
-              </p>
-            </div>
-          </div>
-        </div>
         {/* SINGE FACT ITEM ENDS */}
       </div>
       <img

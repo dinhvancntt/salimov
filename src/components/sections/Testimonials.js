@@ -7,12 +7,10 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " I worked with Steven, he was very helpful and fast to respond
-                to my inquiry to help with Wordpress website issues and all
-                technical problems. "
+                " có ai thì mình sẽ giới thiệu. "
               </span>
-              <span className="person">Jasmin Aniston</span>
-              <span className="job">Director - Adobe</span>
+              <span className="person">tanpc</span>
+              <span className="job">Customer</span>
             </p>
             <img src="assets/testimonials/testimonial-1.jpg" alt="" />
           </div>
@@ -23,12 +21,34 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " Kiet is a great help managing a very out of date website.
-                Everything we ask him to do is done quickly and efficiently, we
-                would be lost without him. "
+                " Ngon lành mình ủng hộ tiếp 😄. "
               </span>
-              <span className="person">Mark Eliott</span>
-              <span className="job">Manager - Envato</span>
+              <span className="person">kmon</span>
+              <span className="job">Customer</span>
+            </p>
+            <img src="assets/testimonials/testimonial-2.jpg" alt="" />
+          </div>
+        </div>
+        <div className="quote-container animated-layer fade-in-right-animation fadeInUp wow">
+          <div>
+            <p>
+              <span className="quote">
+                " em ting ting ròi á cảm ơn sốp nha. "
+              </span>
+              <span className="person">emmie</span>
+              <span className="job">Customer</span>
+            </p>
+            <img src="assets/testimonials/testimonial-2.jpg" alt="" />
+          </div>
+        </div>
+        <div className="quote-container animated-layer fade-in-right-animation fadeInUp wow">
+          <div>
+            <p>
+              <span className="quote">
+                " bác nhận đc chưa bác. "
+              </span>
+              <span className="person">goodboytn3</span>
+              <span className="job">Customer</span>
             </p>
             <img src="assets/testimonials/testimonial-2.jpg" alt="" />
           </div>

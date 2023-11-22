@@ -16,7 +16,7 @@ const Home = () => {
               </span>
             </span>
             <span>
-              <span className="animated-layer">ban</span>
+              <span className="animated-layer">.monkeydk</span>
             </span>
           </h1>
         </div>
