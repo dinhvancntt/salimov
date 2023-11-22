@@ -21,12 +21,12 @@ const About = () => {
           <h2>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Steven
+                Monkey
               </span>
             </span>
             <span>
               <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                Walker
+                Shop
               </span>
             </span>
           </h2>
@@ -35,45 +35,13 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Age :</span>
-                    <span>27 Years</span>
-                  </span>
-                </span>
-              </li>
-              <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Nationality :</span>
-                    <span>German</span>
-                  </span>
-                </span>
-              </li>
-              <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Freelance :</span>
-                    <span>Available</span>
-                  </span>
-                </span>
-              </li>
-              <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Langages :</span>
-                    <span>English</span>
+                    <span>Youtube :</span>
+                    <span>15k/month</span>
                   </span>
                 </span>
               </li>
             </ul>
             <ul>
-              <li>
-                <span>
-                  <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Address :</span>
-                    <span>Viet Nam</span>
-                  </span>
-                </span>
-              </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
