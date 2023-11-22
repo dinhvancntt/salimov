@@ -116,6 +116,7 @@ const About = () => {
             </div>
             {/* SKILL ITEM ENDS */}
         </div>
+        </div>
       </div>
       {/* SKILLS ENDS */}
       {/* RESUME STARTS */}
